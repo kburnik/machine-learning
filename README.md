@@ -12,7 +12,15 @@ around with Machine Learning concepts and implementations.
 ## Dependencies (Windows)
 
 ```
-pip install numpy pillow
+pip install jupyter numpy pillow
 ```
 
+## Configuration (Windows - git bash)
+
+```
+mkdir ~/.jupyter/custom/
+cp config/custom.js ~/.jupyter/custom/
+
+# Restart the jupyter server after this
+```
 
