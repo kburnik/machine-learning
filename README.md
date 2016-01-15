@@ -12,7 +12,7 @@ around with Machine Learning concepts and implementations.
 ## Dependencies (Windows)
 
 ```
-pip install jupyter numpy pillow
+pip install jupyter numpy pillow matplotlib
 ```
 
 ## Configuration (Windows - git bash)
